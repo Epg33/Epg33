@@ -1,3 +1,9 @@
+<style>
+  .react{
+    color: blue;
+  }
+</style>
+
 ### Hi there my name is **Ethiem** 👋
 
 >I'm a young frontend developer from Colombia
@@ -16,7 +22,11 @@
 - Node
 - Express
 
-
+<ul>
+  <li class="react">React</li>
+  <li>Express</li>
+  <li>Tailwind</li>
+</ul>
 
 <!--
 **Epg33/Epg33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
