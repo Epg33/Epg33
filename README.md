@@ -5,6 +5,19 @@
 >I'm currently studiying in análisis and development of información systems
 >In the Sena 
 
+### SKILLS
+
+- HTML
+- CSS
+- Javascript
+- TypeScript
+- React
+- Tailwind
+- Node
+- Express
+
+
+
 <!--
 **Epg33/Epg33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
