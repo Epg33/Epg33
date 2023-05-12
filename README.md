@@ -4,14 +4,40 @@
 
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ethiem-guerrero-27a3bb262/) 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ethiem-guerrero-27a3bb262"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" heigth="40"/></a>
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div style="display: flex; align-items: center;"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"  title="HTML5" alt="HTML" width="40" heigth="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" heigth="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"  title="JAVASCRIPT" alt="JS" width="40" heigth="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"  title="TYPESCRIPT" alt="TS" width="40" heigth="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="REACT" alt="REACT" width="40" heigth="40"/>
+     <img src="https://github.com/SEGACO4356/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NODEJS" alt="NODEJS" width="40" heigth="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg"  title="EXPRESS" alt="EXPRESS" width="40" heigth="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"  title="RUST" alt="RUST" width="40" heigth="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" heigth="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="PYTHON" alt="PY" width="40" heigth="40"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"  title="VITE" alt="VITE" width="40" heigth="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="ANGULARJS" alt="ANGULAR" width="40" heigth="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="TAILWIND" alt="TAILWIND" width="40" heigth="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg"  title="REDUX" alt="REDUX" width="40" heigth="40"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"  title="MYSQL" alt="MYSQL" width="40" heigth="40"/>
+      <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"  title="SQLSERVER" alt="SQLSERVER" width="40" heigth="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg"  title="NEXTJS" alt="NEXTJS" width="40" heigth="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="NPM" width="40" heigth="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"  title="LINUX" alt="LINUX" width="40" heigth="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="KOTLIN" alt="KOTLIN" width="40" heigth="40"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  title="MONGODB" alt="MONGODB" width="40" heigth="40"/>
+     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Light.svg"  title="NETLIFY" alt="NETLIFY" width="40" heigth="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  title="GIT" alt="GIT" width="40" heigth="40"/>
+    
+  <div/>
+  
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Epg33&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Epg33&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Epg33&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epg33&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Epg33&theme=discord&no-frame=true&no-bg=false&margin-w=4)
