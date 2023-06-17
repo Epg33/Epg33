@@ -31,6 +31,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  title="MONGODB" alt="MONGODB" width="40" heigth="40"/>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Light.svg"  title="NETLIFY" alt="NETLIFY" width="40" heigth="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  title="GIT" alt="GIT" width="40" heigth="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg"  title="NEOVIM" alt="NEOVIM" width="40" heigth="40"/>
     
   <div/>
   
