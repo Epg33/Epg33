@@ -16,7 +16,7 @@
      <img src="https://github.com/SEGACO4356/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NODEJS" alt="NODEJS" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg"  title="EXPRESS" alt="EXPRESS" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"  title="RUST" alt="RUST" width="40" heigth="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" heigth="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Light.svg"  title="LUA" alt="LUA" width="40" heigth="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="PYTHON" alt="PY" width="40" heigth="40"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"  title="VITE" alt="VITE" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="ANGULARJS" alt="ANGULAR" width="40" heigth="40"/>
@@ -27,7 +27,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg"  title="NEXTJS" alt="NEXTJS" width="40" heigth="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="NPM" alt="NPM" width="40" heigth="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Light.svg"  title="LINUX" alt="LINUX" width="40" heigth="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"  title="KOTLIN" alt="KOTLIN" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg"  title="MONGODB" alt="MONGODB" width="40" heigth="40"/>
      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Light.svg"  title="NETLIFY" alt="NETLIFY" width="40" heigth="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  title="GIT" alt="GIT" width="40" heigth="40"/>
