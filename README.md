@@ -20,7 +20,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="PYTHON" alt="PY" width="40" heigth="40"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"  title="VITE" alt="VITE" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="ANGULARJS" alt="ANGULAR" width="40" heigth="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="TAILWIND" alt="TAILWIND" width="40" heigth="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="TAILWIND" alt="TAILWIND" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg"  title="REDUX" alt="REDUX" width="40" heigth="40"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"  title="MYSQL" alt="MYSQL" width="40" heigth="40"/>
       <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png"  title="SQLSERVER" alt="SQLSERVER" width="40" heigth="40"/>
