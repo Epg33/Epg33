@@ -1,6 +1,6 @@
 # Hi, My Name Is Ethiem.
 ## 💫 About Me:
-🔭 I’m currently working on a musicians job finder project called Nodens<br>🌱 I’m currently learning Rust, Next.js and Python<br>💬 Ask me about Web development and software in general
+🔭 I’m currently working on a legal cases app<br>🌱 I’m currently learning Python<br>💬 Ask me about Web development and software in general
 
 
 ### 🌐 Socials:
