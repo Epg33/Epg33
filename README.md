@@ -15,11 +15,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="REACT" alt="REACT" width="40" heigth="40"/>
      <img src="https://github.com/SEGACO4356/devicon/blob/master/icons/nodejs/nodejs-original.svg"  title="NODEJS" alt="NODEJS" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg"  title="EXPRESS" alt="EXPRESS" width="40" heigth="40"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg"  title="RUST" alt="RUST" width="40" heigth="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Light.svg"  title="LUA" alt="LUA" width="40" heigth="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="PYTHON" alt="PY" width="40" heigth="40"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Light.svg"  title="VITE" alt="VITE" width="40" heigth="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"  title="ANGULARJS" alt="ANGULAR" width="40" heigth="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="TAILWIND" alt="TAILWIND" width="40" heigth="40"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg"  title="REDUX" alt="REDUX" width="40" heigth="40"/>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg"  title="MYSQL" alt="MYSQL" width="40" heigth="40"/>
